@@ -1,0 +1,77 @@
+.div-heading{
+    padding-left: 20px;
+    padding-top: 5px;
+    background-image: url(images/background/bg-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+a.top-head{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    text-shadow: 2px 0px 3px rgb(202, 199, 199);
+}
+a.top-head:hover{
+    color: #9fd421;
+    text-shadow: 2px 0px 3px rgb(190, 186, 186);
+}
+.div-mid-heading{
+    height: 120px;
+}
+.h1-head{
+    padding-top: 25px;
+    font-size: 50px;
+    text-shadow: 2px 4px 5px rgb(150, 148, 148);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sp-head{
+    color: #9fd421;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.r1{
+    padding-left: 3px;
+}
+.r2{
+    margin: 0px;
+    padding-left: 3px;
+}
+.col{
+    margin-left: 5px;
+}
+.img-1{
+    height: 550px;
+}
+.img-2{
+    height: 260px;
+}
+.img-3{
+    height: 258px;
+}
+
+@media screen and (min-width: 360px) {
+    .img-1{
+        height: 400px;
+    }
+    .img-2{
+        height: 185px;
+    }
+    .img-3{
+        height: 183px;
+    }
+  }
+.top-btn{
+    position: fixed;
+    bottom: 20px;
+    right: 5px;
+}
+.div-btn{
+    text-align: center;
+}
+.see-btn{
+    width: 200px;
+}
+.see-btn:hover{
+    width: 200px;
+}

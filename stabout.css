@@ -1,0 +1,34 @@
+.div-heading{
+    background-image: url(images/background/bg-head-about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+}
+.h1-head{
+    padding-top: 55px;
+    color: white;
+    text-shadow: 2px 2px 5px rgb(226, 218, 218);
+    font-size: 45px;
+    font-family: cursive;
+}
+
+
+.div-para{
+    margin-bottom: 20px;
+}
+.para-icon{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.para-1{
+    text-align: justify;
+    padding-top: 30px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.media-body{
+    font-size: 22px;
+    text-align: left;
+}

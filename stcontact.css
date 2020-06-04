@@ -1,0 +1,21 @@
+.div-form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.div-mid-heading{
+    margin-bottom: 10px;
+}
+.h1-head{
+    padding-top: 25px;
+    font-size: 50px;
+    text-shadow: 2px 4px 5px rgb(150, 148, 148);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sp-head{
+    color: #9fd421;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.btn{
+    margin-bottom: 20px;
+}
